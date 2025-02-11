@@ -9,4 +9,4 @@ View SQL Script
 **
 The dataset includes information on web traffic metrics such as page views, unique visitors, and sessions.
 
-![2:10 ApprovedModel](https://github.com/user-attachments/assets/3316b16b-b06a-4451-b6a5-244d39dcbb76)
+![2:10 ApprovedModel](https://github.com/user-attachments/assets/2ac94557-a2d0-443c-a5bb-991f3cfe5ec8)
